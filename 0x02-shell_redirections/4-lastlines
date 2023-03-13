@@ -1,0 +1,2 @@
+#!/vbin/bash
+tail /etc/passwd
